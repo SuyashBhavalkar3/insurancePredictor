@@ -23,12 +23,12 @@ The Health Insurance Cost Predictor is a machine learning–based web app built 
 ---
 
 ## 📂 Project Structure
-
 insurancePredictor/
-│── insuranceCharges.pkl # Trained ML model
-│── app.py # Main Streamlit app
-│── requirements.txt # Python dependencies
-│── README.md # Project documentation
+│
+├── app.py # Main Streamlit app
+├── insuranceCharges.pkl # Trained ML model
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
 
 
 
